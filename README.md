@@ -5,7 +5,7 @@
 
 ## Hello dev's 👋
 Just someone who loves coffee, programming, gaming and computer science :blue_heart: <br> <br>
-Studying Internet Systems on FATEC Prof. José Camargo, Jales - SP, Brazil
+👨‍🎓 &nbsp; Studying Internet Systems on FATEC Prof. José Camargo, Jales - SP, Brazil
 
  :rocket:  &nbsp; **Front and Backend developer**
  <br/> :coffee: &nbsp; Many knowledges of Java REST API'S (SpringBoot applications), JSF, HTML, CSS and JS
