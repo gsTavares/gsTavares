@@ -3,13 +3,10 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-## Fala dev's 👋
-Descobri a programação há 1 ano e meio e sou apaixonado pelo seu potencial :computer: <br>
-Realizei minha formação na ETEC de Fernandópolis como Técnico em Informática para Internet e estou concluindo meus estudos no Ensino Médio
+## Hello dev's 👋
+Just someone who loves coffee, programming, gaming and computer science :blue_heart: <br> <br>
+Studying Internet Systems on FATEC Prof. José Camargo, Jales - SP, Brazil
 
- :rocket:  &nbsp; Sou **Jovem Aprendiz**
- <br/> :purple_heart: &nbsp; Tenho conhecimentos em aplicações web em MVC
- <br/> :blush: &nbsp; Posso te ajudar no front e back-end dessas aplicações
- <br/> :computer: &nbsp; Minha stack: Java Web (JSP, Servlets e DAO's) e PostgreeSQL. Estou aprimorando meus conhecimentos em React e Node.js na NLW #02 (03/08 a 09/08/2020) pela Rocketseat.
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias e games (principalmente FPS)
- <br/> 
+ :rocket:  &nbsp; **Front and Backend developer**
+ <br/> :coffee: &nbsp; Many knowledges of Java REST API'S (SpringBoot applications), JSF, HTML, CSS and JS
+ <br/> :computer: &nbsp; Further, I pretend to study some gaming development programming languages (like C#/C++) and, for web development, frameworks like React, ReactNative and Angular.js
