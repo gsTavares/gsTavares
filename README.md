@@ -1,12 +1,19 @@
-# GustavoTavares
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
 ## Hello dev's 👋
-Just someone who loves coffee, programming, gaming and computer science :blue_heart: <br> <br>
-👨‍🎓 &nbsp; Studying Internet Systems on FATEC Prof. José Camargo, Jales - SP, Brazil
+Just someone who loves coffee, programming, gaming and computer science :blue_heart:
 
- :rocket:  &nbsp; **Front and Backend developer** <br>
- <br/> :coffee: &nbsp; Many knowledges of Java REST API'S (SpringBoot applications), JSF, HTML, CSS and JS <br>
- <br/> :computer: &nbsp; Further, I pretend to study some gaming development programming languages (like C#/C++) and, for web development, frameworks like React, ReactNative and Angular.js
+Studying Internet Systems on FATEC Prof. José Camargo, Jales - SP, Brazil 👨‍🎓
+
+**Front and Backend developer at [GestãoTec](https://www.gestaotec.app.br)**  :rocket:
+
+## Stack
+- Java
+- Node.js (basic stuff only XD)
+- Spring (Data, Security, Websocket)
+- Angular
+- React Native
+- JSF (Java Server Faces)
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+
