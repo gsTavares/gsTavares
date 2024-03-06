@@ -3,7 +3,7 @@ Just someone who loves coffee, programming, gaming and computer science :blue_he
 
 Studying Internet Systems on FATEC Prof. José Camargo, Jales - SP, Brazil 👨‍🎓
 
-**Front and Backend developer at [GestãoTec](https://www.gestaotec.app.br)**  :rocket:
+**Fullstack developer working for [CDDIT](https://cddit.com.br)** (remote)  :rocket:
 
 ## Stack
 - Java
@@ -16,4 +16,4 @@ Studying Internet Systems on FATEC Prof. José Camargo, Jales - SP, Brazil 👨�
 - CSS
 - JavaScript
 - TypeScript
-
+- Docker (basic knowledge)
