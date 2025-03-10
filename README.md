@@ -1,12 +1,13 @@
 # Stack
 - Java
-- Node.js (basic stuff only XD)
+- Node.js (Express, NestJS)
 - Spring (Data, Security, Websocket)
 - Angular
+- React
 - React Native
 - JSF (Java Server Faces)
 - HTML
 - CSS
-- JavaScript
-- TypeScript
-- Docker (basic knowledge)
+- Javascript
+- Typescript
+- Docker
